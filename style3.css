@@ -1,0 +1,14 @@
+h1{
+	text-align: right;
+	color: teal;
+	font-style: oblique;
+	text-decoration: underline;
+	font-size: 45px;
+	font-family: "TW Cen MT";
+}
+body{
+	background-image: url(college.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	
+}

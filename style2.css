@@ -1,0 +1,33 @@
+body{
+	font-family: "Tw Cen MT";
+}
+ul{
+	font-size: 15px;
+}
+li{
+	font-size: 13px;
+}
+.disc{
+	list-style: disc;
+}
+.square{
+	list-style: square;
+}
+.circle{
+	list-style: circle;
+}
+.none{
+	list-style: none;
+}
+.decimal{
+	list-style: decimal;
+}
+.leadingzeros{
+	list-style: decimal-leading-zero;
+}
+.lowercaseascii{
+	list-style: lower-alpha;
+}
+.lowercaseroman{
+	list-style: lower-roman;
+}

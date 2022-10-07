@@ -1,0 +1,35 @@
+body{
+	background-color: #BADAFF;
+}
+th{
+	color: darkblue;
+	font-family: "Comic Sans MS";
+	font-size: 50px;
+}
+.logo{
+	margin-left: 650px;
+}
+.firstrow{
+	border: 1.25px steelblue dotted;
+}
+a{
+	color: darkblue;
+	text-decoration: none;
+}
+a:hover{
+	transition: 0.8s ease;
+	font-size: 21px ;
+}
+table{
+	width: 100%;
+	border: 1.25px steelblue solid;
+}
+
+td{
+	color: darkblue;
+	font-family: "Comic Sans MS";
+	font-size: 20px;
+	vertical-align: bottom;
+	text-align: center;
+}
+
